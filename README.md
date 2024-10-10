@@ -13,7 +13,7 @@ The last task was to make a chatbot: Firstly I made a simple chatbot using NLTK.
 The second chatbot I made was an LLM. This is an interesting model as it uses langchain and groq. The model inputs any PDF and can make a chatbot to chat with that PDF. Hence, I copied all the content from the site given in the assignment(https://animemangatoon.com/castle-swimmer-unveiling-new-prophecy/) and made it a PDF.
 
 
-This PDF was given to the model and a chatbot was made out of it. the only necessity for this chatbot to run are the libraries used in the code(for which I have provided a requirements.txt) and a Groq API Key which is free of cost.
+This PDF was fed to the model and a chatbot was made out of it. the only necessity for this chatbot to run are the libraries used in the code(for which I have provided a requirements.txt) and a Groq API Key which is free of cost.
 
 
 Here are the results of the ChatBot when asked some questions
